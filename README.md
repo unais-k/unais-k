@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a e-commerce web application<br>👯 I’m looking to collaborate on Full Stack development projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact - I am Batman
+🔭 I’m currently working on a project management web application<br>👯 I’m looking to collaborate on Full Stack development projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact - I am Batman
 
 
 ## 🌐 Socials:
